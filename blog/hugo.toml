@@ -1,0 +1,5 @@
+# baseURL = 'https://www.danieljraine.com/'
+
+languageCode = 'en-us'
+title = 'Blog'
+theme = 'paper'
